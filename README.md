@@ -75,7 +75,7 @@ Consumption logic lives isolated in `js/api.js`, kept separate from any presenta
 1. **Get the project**
 
 ```bash
-   git clone https://github.com/jorgegmch/proyecto-fakestore-rebelwear.git
+   git clone https://github.com/jorgegmch/rebelwear-ui.git
 ```
 
    Or download the ZIP from the repository.
